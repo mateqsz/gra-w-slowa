@@ -16,9 +16,9 @@ Czas na grę to *dwie minuty*. W tym czasie każdy gracz uczestniczący w rozgry
 ##Punktacja
 Po upływie dwóch minut sprawdzana jest liczba powtórzeń słów wszystkich graczy.
 
-* Jeśli jakieś słowo *powtórzyło się* u obu (lub większej ilości) graczy, to dostają *1 pkt*
-* Jeśli jakieś słowo *nie powtórzyło się* u żadnego z uczestników gry, to osobie tej *nie przyznaje się punktów*
-* Jeśli natomiast osoba grająca wypisze przynajmniej 30 słów, które nie będą się powtarzać u nikogo *z jej konta zostaną zabrane 2 pkt*
+* Jeśli jakieś słowo **powtórzyło się** u obu (lub większej ilości) graczy, to dostają **1 pkt**
+* Jeśli jakieś słowo **nie powtórzyło się** u żadnego z uczestników gry, to osobie tej **nie przyznaje się punktów**
+* Jeśli natomiast osoba grająca wypisze przynajmniej 30 słów, które nie będą się powtarzać u nikogo **z jej konta zostaną zabrane 2 pkt**
 
 ##Twórcy projektu:
 - Marcin Świerczek - programista
