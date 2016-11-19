@@ -5,7 +5,7 @@ pamięci masowej oraz koncepcję posiadania przez serwer i zarządzania pamięci
 
 SAN może być postrzegana jako rozszerzenie magistral urządzeń pamięci masowych, które pozwala na łączenie z nimi serwerów przy użyciu podobnych elementów, jak w sieciach lokalnych czy rozległych: niterów, hubów, przełączników i mostów. SAN może być siecią lokalną, albo rozleglą. Rysunek poniżej przedstawia sieć pamięci masowych na tle sieci lokalnej/rozległej.
 
-![Rysunek SAN](http://tkabus.pl/SAN2.png)
+![Rysunek SAN](http://tkabus.pl/SAN2.PNG)
 
 ##Główne założenia
 Sieci SAN pozwalają ominąć „wąskie gardła" technologii sieciowych. Oferują bezpośrednie, szybkie połączenia pomiędzy urządzeniami na trzy możliwe sposoby: 
