@@ -2,9 +2,11 @@
 Jest to projekt gry słownej opartej na technologiach webowych
 
 ##Zastosowane technologie:
-* Node.js
-* EJS
+* HTML
+* CSS
 * JavaScript
+* PHP
+* AJAX
 
 ##Zasady gry:
 Celem gry jest osiągnięcie przez gracza jak największej liczby powtarzających się słów innych użytkowników.
