@@ -22,6 +22,8 @@ Po upływie dwóch minut sprawdzana jest liczba powtórzeń słów wszystkich gr
 * Jeśli jakieś słowo **nie powtórzyło się** u żadnego z uczestników gry, to osobie tej **nie przyznaje się punktów**
 * Jeśli natomiast osoba grająca wypisze przynajmniej 30 słów, które nie będą się powtarzać u nikogo **z jej konta zostaną zabrane 2 pkt**
 
+https://zapodaj.net/726b094162d16.png.html
+
 ##Twórcy projektu:
 - Marcin Świerczek - programista
 - Szczepan Rdest - programista , grafik
